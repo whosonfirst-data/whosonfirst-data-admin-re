@@ -100,7 +100,7 @@
         "wk:page":"L%27%C3%89tang-Sal%C3%A9"
     },
     "wof:country":"RE",
-    "wof:geomhash":"45aa33b4439990be4486792b0ca41342",
+    "wof:geomhash":"71a9eec0399a60d9203dc579e1a20028",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,5 +126,5 @@
     55.38333000000001,
     -21.25
 ],
-  "geometry": {"coordinates":[55.38333000000001,-21.25],"type":"Point"}
+  "geometry": {"coordinates":[55.38333,-21.25],"type":"Point"}
 }

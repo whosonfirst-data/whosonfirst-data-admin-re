@@ -48,7 +48,7 @@
         "gn:id":935681
     },
     "wof:country":"RE",
-    "wof:geomhash":"ab49ee6b6d1f30805bb06ba827b2d002",
+    "wof:geomhash":"20f7eee8f036b479d0189a3ae1e54219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     55.26893000000001,
     -21.08426
 ],
-  "geometry": {"coordinates":[55.26893000000001,-21.08426],"type":"Point"}
+  "geometry": {"coordinates":[55.26893,-21.08426],"type":"Point"}
 }

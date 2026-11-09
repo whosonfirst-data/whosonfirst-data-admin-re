@@ -43,7 +43,7 @@
         "wk:page":"Manapany"
     },
     "wof:country":"RE",
-    "wof:geomhash":"c953496bcc7b2d965414bfd24da8b2a8",
+    "wof:geomhash":"dc364ade288afdf9c54d00af7dee2ac0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,5 +68,5 @@
     55.60078000000001,
     -21.37599
 ],
-  "geometry": {"coordinates":[55.60078000000001,-21.37599],"type":"Point"}
+  "geometry": {"coordinates":[55.60078,-21.37599],"type":"Point"}
 }

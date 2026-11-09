@@ -41,7 +41,7 @@
         "gn:id":935205
     },
     "wof:country":"RE",
-    "wof:geomhash":"8f613b1b7ecaa477515df4d4b984def4",
+    "wof:geomhash":"86a552e96beb1d4d3e0419a483ae45fc",
     "wof:hierarchy":[
         {
             "locality_id":1209042471,
@@ -64,5 +64,5 @@
     55.30553000000001,
     -21.09263
 ],
-  "geometry": {"coordinates":[55.30553000000001,-21.09263],"type":"Point"}
+  "geometry": {"coordinates":[55.30553,-21.09263],"type":"Point"}
 }

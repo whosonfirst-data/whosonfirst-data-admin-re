@@ -43,7 +43,7 @@
         "wk:page":"Vincendo"
     },
     "wof:country":"RE",
-    "wof:geomhash":"45a1e002362c9fbf5561cdc71fa4e803",
+    "wof:geomhash":"fec8c6e7989bbdebeadb721f998918af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,5 +68,5 @@
     55.67013000000001,
     -21.37104
 ],
-  "geometry": {"coordinates":[55.67013000000001,-21.37104],"type":"Point"}
+  "geometry": {"coordinates":[55.67013,-21.37104],"type":"Point"}
 }

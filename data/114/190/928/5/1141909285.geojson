@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"RE",
     "wof:created":1499131059,
-    "wof:geomhash":"5740652294f9e2d22a6844271bd5c169",
+    "wof:geomhash":"8865a8693e2f372acf343fcccd4dcdbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,5 +150,5 @@
     55.44807775759637,
     -20.87889483763223
 ],
-  "geometry": {"coordinates":[55.44807775759637,-20.87889483763223],"type":"Point"}
+  "geometry": {"coordinates":[55.448078,-20.878895],"type":"Point"}
 }
