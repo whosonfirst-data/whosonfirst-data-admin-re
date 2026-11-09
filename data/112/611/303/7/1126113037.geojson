@@ -34,7 +34,7 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632351
+        85671199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +46,8 @@
     "wof:geomhash":"3b67eedf164fe89387a3524c2f7b4513",
     "wof:hierarchy":[
         {
-            "country_id":85632351,
-            "locality_id":1126113037
+            "locality_id":1126113037,
+            "region_id":85671199
         }
     ],
     "wof:id":1126113037,
