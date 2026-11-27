@@ -1,0 +1,77 @@
+{
+  "id": 9895093084,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.60788,-20.90616,55.60788,-20.90616",
+    "geom:latitude":-20.90616,
+    "geom:longitude":55.60788,
+    "gn:population":24293,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 935248: name \"Sainte-Suzanne\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/935248"
+        },
+        {
+            "citation":"GeoNames populated place 935248: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/935248"
+        },
+        {
+            "citation":"GeoNames populated place 935248: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/935248"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375213 (Arrondissement de Saint-Denis), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125375213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935248
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"252dc395af2b42459da3ca11c8b14299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375213,
+            "locality_id":9895093084,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895093084,
+    "wof:lastmodified":1795747197,
+    "wof:name":"Sainte-Suzanne",
+    "wof:parent_id":1125375213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.60788,
+    -20.90616,
+    55.60788,
+    -20.90616
+],
+  "geometry": {"coordinates":[55.60788,-20.90616],"type":"Point"}
+}
