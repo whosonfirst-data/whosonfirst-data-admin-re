@@ -1,0 +1,76 @@
+{
+  "id": 9895092522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33176,-21.22753,55.33176,-21.22753",
+    "geom:latitude":-21.22753,
+    "geom:longitude":55.33176,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 935916: name \"Entre-Deux\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/935916"
+        },
+        {
+            "citation":"GeoNames populated place 935916: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/935916"
+        },
+        {
+            "citation":"GeoNames populated place 935916: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/935916"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375207 (Arrondissement de Saint-Paul), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125375207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935916
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c8d1693e05b3c9f75765d84e15f10a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375207,
+            "locality_id":9895092522,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895092522,
+    "wof:lastmodified":1795746170,
+    "wof:name":"Entre-Deux",
+    "wof:parent_id":1125375207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33176,
+    -21.22753,
+    55.33176,
+    -21.22753
+],
+  "geometry": {"coordinates":[55.33176,-21.22753],"type":"Point"}
+}

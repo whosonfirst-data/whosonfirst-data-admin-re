@@ -1,0 +1,76 @@
+{
+  "id": 9895092525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.32477,-21.15742,55.32477,-21.15742",
+    "geom:latitude":-21.15742,
+    "geom:longitude":55.32477,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13441437: name \"Saint-Christophe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13441437"
+        },
+        {
+            "citation":"GeoNames populated place 13441437: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13441437"
+        },
+        {
+            "citation":"GeoNames populated place 13441437: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13441437"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375207 (Arrondissement de Saint-Paul), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125375207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13441437
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"b6a4b6f30e11f740efb6d9f2e063aa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375207,
+            "locality_id":9895092525,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895092525,
+    "wof:lastmodified":1795746170,
+    "wof:name":"Saint-Christophe",
+    "wof:parent_id":1125375207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.32477,
+    -21.15742,
+    55.32477,
+    -21.15742
+],
+  "geometry": {"coordinates":[55.32477,-21.15742],"type":"Point"}
+}

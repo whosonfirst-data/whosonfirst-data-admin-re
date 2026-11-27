@@ -1,0 +1,77 @@
+{
+  "id": 9895093086,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51766,-21.2766,55.51766,-21.2766",
+    "geom:latitude":-21.2766,
+    "geom:longitude":55.51766,
+    "gn:population":81943,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 935582: name \"Le Tampon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/935582"
+        },
+        {
+            "citation":"GeoNames populated place 935582: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/935582"
+        },
+        {
+            "citation":"GeoNames populated place 935582: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/935582"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375205 (Arrondissement de Saint-Pierre), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125375205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935582
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"0db2e585e2ee1ec634f35d3a854c0468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375205,
+            "locality_id":9895093086,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895093086,
+    "wof:lastmodified":1795747197,
+    "wof:name":"Le Tampon",
+    "wof:parent_id":1125375205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51766,
+    -21.2766,
+    55.51766,
+    -21.2766
+],
+  "geometry": {"coordinates":[55.51766,-21.2766],"type":"Point"}
+}
