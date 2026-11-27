@@ -1,0 +1,76 @@
+{
+  "id": 9895092530,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46967,-21.04227,55.46967,-21.04227",
+    "geom:latitude":-21.04227,
+    "geom:longitude":55.46967,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13441818: name \"Camp Pierrot\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13441818"
+        },
+        {
+            "citation":"GeoNames populated place 13441818: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13441818"
+        },
+        {
+            "citation":"GeoNames populated place 13441818: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13441818"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125326587 (Arrondissement de Saint-Beno\u00eet), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125326587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13441818
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"4fcbafe4ec8c07df2578fe57c892f928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125326587,
+            "locality_id":9895092530,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895092530,
+    "wof:lastmodified":1795746170,
+    "wof:name":"Camp Pierrot",
+    "wof:parent_id":1125326587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46967,
+    -21.04227,
+    55.46967,
+    -21.04227
+],
+  "geometry": {"coordinates":[55.46967,-21.04227],"type":"Point"}
+}

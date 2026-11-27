@@ -1,0 +1,76 @@
+{
+  "id": 9895092527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.26663,-21.07364,55.26663,-21.07364",
+    "geom:latitude":-21.07364,
+    "geom:longitude":55.26663,
+    "iso:country":"RE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13441440: name \"L'Ermitage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13441440"
+        },
+        {
+            "citation":"GeoNames populated place 13441440: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13441440"
+        },
+        {
+            "citation":"GeoNames populated place 13441440: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13441440"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125375207 (Arrondissement de Saint-Paul), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671199,
+        102191581,
+        136253037,
+        1125375207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13441440
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"ea6ebee57c594f0027b0aa97b2a9c961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375207,
+            "locality_id":9895092527,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":9895092527,
+    "wof:lastmodified":1795746170,
+    "wof:name":"L'Ermitage",
+    "wof:parent_id":1125375207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.26663,
+    -21.07364,
+    55.26663,
+    -21.07364
+],
+  "geometry": {"coordinates":[55.26663,-21.07364],"type":"Point"}
+}
